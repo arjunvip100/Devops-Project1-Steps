@@ -24,5 +24,5 @@ Steps to make this Project are:-
 9. Automate, Build and Deploy using Poll SCM
 That's how we completely automated the whole pipeline. :)!
 
-Watch full Procedure in this Video!
+Watch full Procedure in this Video, i have recorded it
 https://www.youtube.com/watch?v=fx0AFTwGSIw
